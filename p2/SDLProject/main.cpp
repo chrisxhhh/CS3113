@@ -63,6 +63,7 @@ void resetLayout(){
     p2_position = glm::vec3(4.85, 0, 0);
     ball_position = glm::vec3(0, 0, 0);
     ball_movement = glm::vec3(0, 0, 0);
+    ballSpeed = 1.0f;
 }
 
 void ProcessInput() {
