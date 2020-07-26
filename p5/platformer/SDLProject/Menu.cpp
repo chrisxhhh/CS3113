@@ -78,7 +78,7 @@ void Menu::Render(ShaderProgram *program) {
     Util::DrawText(program, textureID, "Fox Jump", 0.8f, 0, glm::vec3(2, -2, 0));
     Util::DrawText(program, textureID, "Enter --> START", 0.5f, -0.1, glm::vec3(2, -4, 0));
     Util::DrawText(program, textureID, "SPACE --> JUMP", 0.5f, -0.1, glm::vec3(2, -4.5, 0));
-    Util::DrawText(program, textureID, "C --> SHOOT LEFT", 0.5f, -0.1, glm::vec3(2, -5, 0));
-    Util::DrawText(program, textureID, "X --> SHOOT RIGHT", 0.5f, -0.1, glm::vec3(2, -5.5, 0));
+    Util::DrawText(program, textureID, "C --> SHOOT RIGHT", 0.5f, -0.1, glm::vec3(2, -5, 0));
+    Util::DrawText(program, textureID, "X --> SHOOT LEFT", 0.5f, -0.1, glm::vec3(2, -5.5, 0));
     
 }
