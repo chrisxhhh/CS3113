@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7107F91A24C63CC90036A62E /* tileset1.png in CopyFiles */ = {isa = PBXBuildFile; fileRef = 7107F91924C63CB00036A62E /* tileset1.png */; };
 		714170BF24A7D177003F31D1 /* Entity.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 714170BD24A7D177003F31D1 /* Entity.cpp */; };
 		714170C124A7D4B1003F31D1 /* george_0.png in CopyFiles */ = {isa = PBXBuildFile; fileRef = 714170C024A7D4A4003F31D1 /* george_0.png */; };
 		714170C524A832FE003F31D1 /* platformPack_tile001.png in CopyFiles */ = {isa = PBXBuildFile; fileRef = 714170C424A832F1003F31D1 /* platformPack_tile001.png */; };
@@ -32,12 +33,14 @@
 				714170C124A7D4B1003F31D1 /* george_0.png in CopyFiles */,
 				714170C524A832FE003F31D1 /* platformPack_tile001.png in CopyFiles */,
 				71C7528324B7954300E6282B /* ctg.png in CopyFiles */,
+				7107F91A24C63CC90036A62E /* tileset1.png in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7107F91924C63CB00036A62E /* tileset1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tileset1.png; sourceTree = "<group>"; };
 		714170BD24A7D177003F31D1 /* Entity.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Entity.cpp; sourceTree = "<group>"; };
 		714170BE24A7D177003F31D1 /* Entity.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Entity.h; sourceTree = "<group>"; };
 		714170C024A7D4A4003F31D1 /* george_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = george_0.png; sourceTree = "<group>"; };
@@ -96,6 +99,7 @@
 				714170C424A832F1003F31D1 /* platformPack_tile001.png */,
 				71C7528224B7953400E6282B /* ctg.png */,
 				714170C024A7D4A4003F31D1 /* george_0.png */,
+				7107F91924C63CB00036A62E /* tileset1.png */,
 				DBDF1B5B2323DE8D007CECB1 /* glm */,
 				DBDF1B5D2323DE8D007CECB1 /* ShaderProgram.cpp */,
 				DBDF1B592323DE8D007CECB1 /* ShaderProgram.h */,
